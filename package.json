@@ -2,7 +2,7 @@
   "name": "projeto2-dsw",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://niveah4.github.io/projeto2-dsw",
+  "homepage": "https://niveah4.github.io/T2---DSW",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/dom": "^10.4.0",
