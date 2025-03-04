@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/T2---DSW/static/css/main.be15731f.css",
+    "main.js": "/T2---DSW/static/js/main.6e09ad08.js",
+    "index.html": "/T2---DSW/index.html",
+    "main.be15731f.css.map": "/T2---DSW/static/css/main.be15731f.css.map",
+    "main.6e09ad08.js.map": "/T2---DSW/static/js/main.6e09ad08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be15731f.css",
+    "static/js/main.6e09ad08.js"
+  ]
+}
